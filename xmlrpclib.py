@@ -1,4 +1,4 @@
-# hahahah
+# 
 # XML-RPC CLIENT LIBRARY
 # $Id$
 #
